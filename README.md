@@ -1,3 +1,5 @@
 # social_tree
 <h3>Atividade SoftexRefice</h3>
-[Imgur](https://i.imgur.com/xGqM7Od.png)
+
+<img src="https://imgur.com/xGqM7Od" alt="print da pagina" title="social tree Title" height="800px"/>
+
